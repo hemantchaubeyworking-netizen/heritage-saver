@@ -1,4 +1,4 @@
-# 🍛 Taste of Varanasi
+#  Taste of Varanasi
 
 Taste of Varanasi is a web-based application that allows users to explore famous food shops in Varanasi and add items to a cart for ordering.
 
